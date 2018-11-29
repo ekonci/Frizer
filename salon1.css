@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.nav {
+  display: inline;
+  width: 90px;
+  padding: 5px;
+  padding-right: 10px;
+}
+
+input {
+}
+
+.slide, .jumbotron, #carouselExampleFade {
+  margin: 0px;
+  padding: 0px;
+  max-height: 400px;
+}
+
+.container {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.box, .foot {
+  display: inline-block;
+  margin: 30px;
+  max-width: 290px;
+  max-height: 250px;
+  height: 250px;
+  padding: 10px;
+  box-shadow: 2px 2px #def2e1;
+  background-color: #dee2e6;
+  border-radius: 20px;
+}
+
+#box-image, #box-image2, #box-image3 {
+  width: 230px;
+  margin: 0px;
+  padding: 0px;
+  height: 150px;
+  }
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
+  border-bottom: 1px solid darkgrey;
+
+}
+
+.col-sm-6 {
+  display: inline-block;
+  margin: 30px;
+  width: 430px;
+}
+
+.col-sm-12, .dos {
+  display: inline-block;
+  text-align: center;
+  clear: left;
+}
+
+
+.obrazec {
+  width: 400px;
+  margin: 10px 0px;
+  padding: 10px;
+  vertical-align: top;
+}
+
+#obrazec {
+  clear: left;
+  height: 450px;
+}
+
+.col-sm-12 {
+  margin-top: 30px;
+  border-bottom: 1px solid #dee2e6;
+
+}
+
+table {
+  max-width: 430px;
+  height: 450px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.psi, .nagrade, .ekipa {
+  margin-top: 30px;
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+
+.ena {
+  display: inline;
+  float: left;
+}
+
+.tres {
+  border: none;
+}
+
+footer {
+  text-align: center;
+  border-top: none;
+  margin-top: 30px;
+}
